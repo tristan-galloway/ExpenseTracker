@@ -65,7 +65,7 @@ public class MainApp {
 
         // Get the cost
         System.out.println("What is the cost?");
-        int cost = _optionScanner.nextInt();
+        double cost = _optionScanner.nextDouble();
         _optionScanner.nextLine();  // Consume the leftover newline character
         clearConsole();
 

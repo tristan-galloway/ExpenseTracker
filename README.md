@@ -2,8 +2,6 @@
 
 I am writing this project in Java as part of my personal goal to learn more languages to code in and building my experience in various languages. I will be showing what I've learned so far about using variables, conditionals, classes, methods, ArrayLists, encapsulation, modularization, functions, and loops.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
