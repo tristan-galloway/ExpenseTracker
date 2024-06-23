@@ -1,6 +1,6 @@
 # Overview
 
-I am writing this project in Java as part of my peronal goal to learn more languages to code in and building my experience in various languages. I will be showing what I've learned so far about using variables, conditionals, classes, methods, ArrayLists, encapsulation, modularization, functions, and loops.
+I am writing this project in Java as part of my personal goal to learn more languages to code in and building my experience in various languages. I will be showing what I've learned so far about using variables, conditionals, classes, methods, ArrayLists, encapsulation, modularization, functions, and loops.
 
 {Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
 
@@ -28,3 +28,5 @@ I am writing this project in Java as part of my peronal goal to learn more langu
 
 - Find a better way to write the complicated strings.
 - Add Percentages of expenses by category.
+- Add a UI
+- Store CSV in the cloud.

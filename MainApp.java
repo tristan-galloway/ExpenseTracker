@@ -108,12 +108,16 @@ public class MainApp {
         try (BufferedReader reader = new BufferedReader(new FileReader("expenses.csv"))) {
             String line;
             while ((line = reader.readLine()) != null) {
+                // Split each line on the commas.
                 String[] fields = line.split(",");
+                // Only read populated strings
                 if (fields.length == 3) {
                     String name = fields[0];
                     double cost = Double.valueOf(fields[1]);
                     String category = fields[2];
+                    // Build expense
                     Expense expense = new Expense(name, cost, category);
+                    // Add the new expense to the working record.
                     _record.addExpense(expense);
                 }
 
